@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "insight-extract": {
+      "commandName": "Project",
+      "commandLineArgs": "data.json"
+    }
+  }
+}
